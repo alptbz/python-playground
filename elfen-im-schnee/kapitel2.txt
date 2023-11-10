@@ -1,130 +1,122 @@
 3 = Elf gewinnt ungewollt Gletscher-Rutsch-Wettbewerb
-3 +3
+3 +6
 5 = Riesiger Yeti startet epische Schneeballschlacht mit Elfen
-3 +3
+3 +4
 5 +3
 8 = Kristallklare Eislibellen, die in der Sonne schimmern
-3 +2
-5 +5
-8 +5
+5 +3
+8 +4
 9 = Tanzende Polarlichtgeistwesen, die durch die Lüfte schweben
-3 +2
-8 +5
-9 +4
+3 +8
+5 +4
+8 +7
+9 +7
 11 =  Von Elf Peterlein zertrampelte Marienkäfer
-3 +4
-5 +5
-8 +1
-9 +3
-11 +2
+3 +3
+11 +7
 19 = Knisternde Frostgeister, die leise durch die Nacht streifen
-5 +2
-11 +2
-19 +2
+3 +7
+19 +1
 27 = Zischende Schneeschlangen, die sich um Eiszapfen winden
-3 +1
-8 +3
-9 +2
-19 +3
-27 +2
+19 +7
+27 +3
 28 = Gefrorener Drache, der eisige Atemwolken ausstößt
-11 +2
-19 +2
-28 +1
+5 +8
+28 +2
 37 = Glühende Mooskreaturen, die den Boden erwärmen
-3 +1
-37 +3
+37 +5
 5 +2
+11 +2
+27 +6
 38 = Mini-Drache klaut Elf-Mütze für lustiges Versteckspiel
-38 +4
-27 +2
+38 +6
+8 +7
+11 +1
 28 +4
 41 = Runder Käfer mit roten Flügeln
-3 +4
+41 +6
 9 +2
-11 +3
-37 +1
-38 +3
-41 +3
 43 = Grosse Kreatur mit drei Köpfen
-5 +1
-9 +5
-28 +3
-37 +4
-38 +3
-43 +3
+5 +2
+27 +6
+37 +8
+41 +2
+43 +7
 44 = Elfen tanzen Polonaise mit fröhlichen Polarbären
-3 +5
-5 +1
-8 +1
-19 +2
-44 +3
-54 = Pfeilschnelle Eiswiesel, die über gefrorene Bäche flitzen
-38 +3
-54 +5
-27 +2
-60 = Mysteriöse Schattenwesen, die im Nebel auftauchen und verschwinden
-60 +3
-28 +1
-75 = Geflügelte Schneekatzen mit leuchtenden Augen
-54 +2
-9 +1
-19 +1
-75 +3
-76 = Grummelnde Gletscher-Gnome, die in Höhlen hausen
-3 +1
-76 +3
-43 +3
-28 +2
-97 = Tiefblaue Eisbären mit funkelnden Sternen im Fell
-41 +1
-60 +1
-75 +1
-76 +1
-97 +5
-103 = Elf rutscht aus, landet in magischem Schneeball-Meer
-103 +2
-60 +2
-75 +4
-121 = Flauschige Schneehasen mit übergroßen Ohren
-5 +4
-121 +3
-27 +1
-75 +1
-138 = Murmelnde Frostelfen, die im Wind tanzen
-5 +1
-27 +1
 41 +4
-60 +2
-138 +4
-155 = Winzige Eisspinne, die leuchtende Netze webt
+44 +4
+54 = Pfeilschnelle Eiswiesel, die über gefrorene Bäche flitzen
 37 +2
-155 +2
 54 +2
-27 +4
-156 = Fliegende Fischschwärme mit leuchtenden Schuppen
-156 +4
-166 = Singende Eisvögel mit funkelnden Federn
-3 +5
-19 +5
-54 +3
-166 +2
-167 = Zottelige Yetis mit glitzernden Augen
-8 +2
-28 +3
-44 +3
-121 +1
-138 +1
-167 +2
-180 = Leuchtende Nachtschnecken, die glitzernde Spuren hinterlassen
-180 +1
-41 +1
-28 +5
-188 = Schillernder Schmetterling mit Eiskristall-Mustern auf den Flügeln
-37 +5
-188 +4
+60 = Mysteriöse Schattenwesen, die im Nebel auftauchen und verschwinden
+41 +6
+60 +7
+75 = Geflügelte Schneekatzen mit leuchtenden Augen
+5 +8
+75 +4
+76 = Grummelnde Gletscher-Gnome, die in Höhlen hausen
+8 +5
+43 +6
+54 +6
+60 +6
+76 +8
+97 = Tiefblaue Eisbären mit funkelnden Sternen im Fell
+8 +3
+11 +8
+60 +5
+76 +6
+97 +7
+103 = Elf rutscht aus, landet in magischem Schneeball-Meer
+5 +4
 9 +2
-54 +2
-196 = Elegante Eisfüchse, die über Schneefelder gleiten
-196 +1
+37 +5
+41 +8
+103 +5
+121 = Flauschige Schneehasen mit übergroßen Ohren
+8 +3
+121 +5
+138 = Murmelnde Frostelfen, die im Wind tanzen
+5 +3
+19 +5
+43 +4
+44 +1
+138 +8
+155 = Winzige Eisspinne, die leuchtende Netze webt
+9 +4
+38 +5
+41 +4
 138 +1
+155 +2
+156 = Fliegende Fischschwärme mit leuchtenden Schuppen
+38 +3
+138 +5
+27 +2
+156 +8
+166 = Singende Eisvögel mit funkelnden Federn
+28 +4
+38 +7
+44 +7
+54 +4
+75 +8
+166 +6
+167 = Zottelige Yetis mit glitzernden Augen
+167 +1
+44 +2
+28 +1
+180 = Leuchtende Nachtschnecken, die glitzernde Spuren hinterlassen
+3 +2
+9 +8
+11 +6
+41 +8
+180 +7
+188 = Schillernder Schmetterling mit Eiskristall-Mustern auf den Flügeln
+3 +5
+5 +1
+9 +1
+43 +8
+97 +2
+188 +7
+196 = Elegante Eisfüchse, die über Schneefelder gleiten
+38 +8
+196 +3
+27 +3
